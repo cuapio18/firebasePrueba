@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "1068625298650",
+    "firebase_url": "https://fir-prueba-ce7cc.firebaseio.com",
+    "project_id": "fir-prueba-ce7cc",
+    "storage_bucket": "fir-prueba-ce7cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068625298650:android:a0bbb7b02dfb3ca6",
+        "android_client_info": {
+          "package_name": "org.nativescript.firebasePrueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068625298650-tphb3ml46banoicvevhv68253pac6gpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9S85qZqq_i7JOxZyRdRYaG4sftE6MlQg"
+        },
+        {
+          "current_key": "AIzaSyCe1NMSlDK4zW4R5GTJXhS57W0j8AnmCKc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
